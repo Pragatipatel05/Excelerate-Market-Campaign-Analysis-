@@ -50,7 +50,7 @@ To help Excelerate’s marketing and analytics teams:
 ---
 
 ## 🔍 Insights Example (Sample Highlights)
-
+![1]()
 
 
 ---
